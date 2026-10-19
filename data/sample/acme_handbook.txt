@@ -1,0 +1,13 @@
+Acme Robotics Employee Handbook (excerpt)
+
+Vacation policy: Full-time employees receive 24 days of paid vacation per year. Unused days
+may be carried over up to a maximum of 5 days into the next calendar year.
+
+Remote work: Employees may work remotely up to 3 days per week with manager approval. The
+company stipend for home-office equipment is 600 USD, payable once every two years.
+
+Security: All laptops must use full-disk encryption. Security incidents must be reported to
+security@acme-robotics.example within 2 hours of discovery.
+
+Parental leave: Primary caregivers receive 16 weeks of fully paid leave. Secondary caregivers
+receive 6 weeks of fully paid leave.

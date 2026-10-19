@@ -1,0 +1,9 @@
+[
+  {"question": "How many vacation days do full-time employees get per year?", "expected": ["24"], "answerable": true},
+  {"question": "What is the home-office equipment stipend?", "expected": ["600"], "answerable": true},
+  {"question": "Within how many hours must a security incident be reported?", "expected": ["2"], "answerable": true},
+  {"question": "How many weeks of paid leave do primary caregivers get?", "expected": ["16"], "answerable": true},
+  {"question": "What is Acme Robotics' policy on stock options?", "expected": [], "answerable": false},
+  {"question": "Who is the CEO of Acme Robotics?", "expected": [], "answerable": false},
+  {"question": "What is the company's annual bonus percentage?", "expected": [], "answerable": false}
+]

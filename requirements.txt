@@ -1,0 +1,14 @@
+langchain>=0.3,<0.4
+langchain-openai>=0.2
+langchain-community>=0.3
+langchain-text-splitters>=0.3
+faiss-cpu>=1.8
+openai>=1.40
+pypdf>=4.0
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9
+streamlit>=1.35
+requests>=2.31
+pydantic-settings>=2.2
+pytest>=8.0
